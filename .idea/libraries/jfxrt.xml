@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jfxrt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-42.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
